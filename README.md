@@ -9,3 +9,13 @@
   <img src="https://img.shields.io/badge/download%20now-gray?style=for-the-badge" height="50" />
   </a>
 </p>
+
+This is a desktop port of [SpinBot v3](https://www.reddit.com/r/ZombsRoyale/comments/19ca9et/introducing_my_proprietary_spin_bot/).
+
+## Controls
+
+**Alt + S** to stop spinning.
+
+**Alt + Up Arrow** to increase speed.
+
+**Alt + Down Arrow** to decrease speed.
